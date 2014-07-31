@@ -6,4 +6,4 @@ source("map.R")
 source("tar.R")
 source("utils.R")
 
-runGitHubWHost("ShinyServer", username = "gcorre02", subdir = "handTailoredPortfolio",port = 7958, launch.browser = F, host = "192.168.1.6")
+runGitHubWHost("ShinyServer", username = "gcorre02", subdir = "handTailoredPortfolio",port = 7958, launch.browser = F, host = "192.168.1.4")
